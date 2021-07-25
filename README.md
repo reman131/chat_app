@@ -10,3 +10,4 @@ When starting the application, a user is automatically assigned a guest name, bu
 Similarly, a user can enter a command to create a new chat room (or join it if it already exists).
 
 ----------------------
+![](img/ex1.JPG)
