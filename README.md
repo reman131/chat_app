@@ -11,3 +11,5 @@ Similarly, a user can enter a command to create a new chat room (or join it if i
 
 ----------------------
 ![](img/ex1.JPG)
+----------------------
+![](img/ex2.JPG)
